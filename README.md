@@ -6,6 +6,18 @@
 3. import database yg ada pada folder tool
 4. akses dengan http://localhost/e-bookshop/
 
+login admin :
+
+uname : admin@system.com
+
+pass : admin
+
+login user :
+
+uname beli@gmail.com
+
+pass beli123
+
 Anggota Kelompok:
 
 Siti Munawaroh 05111840007004
