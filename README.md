@@ -7,8 +7,11 @@
 4. akses dengan http://localhost/e-bookshop/
 
 Anggota Kelompok:
+
 Siti Munawaroh 05111840007004
+
 Khofifah Nurlaela 05111840000025
+
 Fandi Wahyu R 05111840000108
 
 Bookshop & E-learning adalah proyek toko buku online yang dikembangkan menggunakan framework PHP (CodeIgniter). Aplikasi ini seperti marketplace online untuk buku, jadi pengguna dapat membeli buku maupun menjual bukunya. Pada aplikasi ini terdapat dua peran, yaitu admin dan pengguna. Berikut adalah beberapa fitur dalam aplikasi untuk kedua peran.
